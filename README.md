@@ -1,4 +1,4 @@
-# UTS PAW RB 
+# UTS PAW RB
 # Destinasi Wisata Lampung
 
 **Nama:** Danang Ridho Laksono  
@@ -16,4 +16,5 @@
 
 ## Screenshot
 
+![Screenshot Wisata Lampung](docs/screenshot.png)
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ab0edf92-b533-46bf-b46b-953b0c9c4b42" />
