@@ -16,4 +16,4 @@
 
 ## Screenshot
 
-![Screenshot Wisata Lampung](docs/screenshot.png)
+![Screenshot Wisata Lampung]C:\Users\danang\OneDrive\Documents\belajar\utspaw\uts-paw\README.md
