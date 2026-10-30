@@ -1,10 +1,82 @@
 [
   {
     "id": "1",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "fieldTema1": "ganti sesuai field tema",
-    "fieldTema2": 0,
-    "fieldTema3": "ganti sesuai field tema"
+    "judul": "Pantai Kunyit",
+    "kategori": "Pantai",
+    "kabupaten": "Bandar Lampung",
+    "hargaTiket": 20000,
+    "jamBuka": "24 Jam"
+  },
+  {
+    "id": "2",
+    "judul": "Pantai Mutun",
+    "kategori": "Pantai",
+    "kabupaten": "Pesawaran",
+    "hargaTiket": 15000,
+    "jamBuka": "24 Jam"
+  },
+  {
+    "id": "3",
+    "judul": "Wira Garden",
+    "kategori": "Taman",
+    "kabupaten": "Bandar Lampung",
+    "hargaTiket": 25000,
+    "jamBuka": "24 Jam"
+  },
+  {
+    "id": "4",
+    "judul": "Navara Park",
+    "kategori": "Taman",
+    "kabupaten": "Bandar Lampung",
+    "hargaTiket": 50000,
+    "jamBuka": "08.00 - 22.00"
+  },
+  {
+    "id": "5",
+    "judul": "Taman Nasional Way Kambas",
+    "kategori": "Taman",
+    "kabupaten": "Lampung Timur",
+    "hargaTiket": 150000,
+    "jamBuka": "08.00 - 16.00"
+  },
+  {
+    "id": "6",
+    "judul": "Bukit Cendana",
+    "kategori": "Bukit",
+    "kabupaten": "Pesawaran",
+    "hargaTiket": 35000,
+    "jamBuka": "24 Jam"
+  },
+  {
+    "id": "7",
+    "judul": "Bumi Kedaton",
+    "kategori": "Taman",
+    "kabupaten": "Bandar Lampung",
+    "hargaTiket": 20000,
+    "jamBuka": "08.00 - 22.00"
+  },
+  {
+    "id": "8",
+    "judul": "Gunung Rajabasa",
+    "kategori": "Gunung",
+    "kabupaten": "Lampung Selatan",
+    "hargaTiket": 100000,
+    "jamBuka": "24 Jam"
+  },
+  {
+    "id": "9",
+    "judul": "Embung ITERA",
+    "kategori": "Danau",
+    "kabupaten": "Lampung Selatan",
+    "hargaTiket": 0,
+    "jamBuka": "24 Jam"
+  },
+  {
+    "id": "10",
+    "judul": "Kebun Raya ITERA",
+    "kategori": "Kebun",
+    "kabupaten": "Lampung Selatan",
+    "hargaTiket": 0,
+    "jamBuka": "08.00 - 16.00"
   }
 ]
